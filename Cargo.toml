@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "wunix-false",
+    "file"
+]
+resolver = "2"
