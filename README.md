@@ -1,1 +1,1 @@
-# wunix utils
+# wunix-utils
