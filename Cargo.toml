@@ -1,6 +1,7 @@
 [workspace]
 members = [
     "wunix-false",
-    "file"
+    "wunix-file",
+    "wunix-echo"
 ]
 resolver = "2"
